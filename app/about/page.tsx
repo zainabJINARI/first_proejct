@@ -48,9 +48,7 @@ export default function About() {
                                 100K+ Models
                             </h3>
                             <p className="text-gray-600">
-                                Access our vast library of community-created 3D
-                                models, from practical tools to artistic
-                                creations.
+                                Access our vast library of community-created 3D models, from practical tools to artistic creations.
                             </p>
                         </article>
                         <article className="p-6 bg-white border-gray-400 md:border-x">
@@ -58,8 +56,7 @@ export default function About() {
                                 Active Community
                             </h3>
                             <p className="text-gray-600">
-                                Join thousands of makers who share tips, provide
-                                feedback, and collaborate on projects.
+                                Join thousands of makers who share tips, provide feedback, and collaborate on projects.
                             </p>
                         </article>
                         <article className="p-6 bg-white">
@@ -81,19 +78,10 @@ export default function About() {
                 <div className="prose max-w-none">
                     <h2 className="mb-4 text-2xl font-semibold">Our Vision</h2>
                     <p className="mb-4 text-gray-700">
-                        At PrintForge, we believe that 3D printing is
-                        revolutionizing the way we create, prototype, and
-                        manufacture. Our platform serves as a bridge between
-                        designers and makers, enabling the sharing of knowledge
-                        and creativity that pushes the boundaries of what's
-                        possible with 3D printing.
+                        At PrintForge, we believe that 3D printing is revolutionizing the way we create, prototype, and  manufacture. Our platform serves as a bridge between designers and makers, enabling the sharing of knowledge  and creativity that pushes the boundaries of what'spossible with 3D printing.
                     </p>
                     <p className="text-gray-700">
-                        Whether you're a hobbyist looking for your next weekend
-                        project, an educator seeking teaching materials, or a
-                        professional designer wanting to share your creations,
-                        PrintForge provides the tools and community to support
-                        your journey in 3D printing.
+                        Whether you're a hobbyist looking for your next weekend project, an educator seeking teaching materials, or a PrintForge provides the tools and community to support your journey in 3D printing.
                     </p>
                 </div>
             </section>

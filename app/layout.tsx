@@ -1,6 +1,5 @@
 import "./globals.css";
 import {Albert_Sans ,Montserrat_Alternates} from "next/font/google";
-import Link from "next/link"
 import Navbar from "./components/NavBar";
 const alberSans = Albert_Sans({
   subsets:["latin"],
