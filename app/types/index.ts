@@ -1,4 +1,4 @@
-import { ReactNode } from "react"
+import { HTMLAttributes, ReactNode } from "react"
 
 export type Model = {
     id: number
@@ -27,4 +27,4 @@ export type Model = {
   export type PillProps = {
       children: ReactNode
       className?: string
-  }
+  }& HTMLAttributes<HTMLDivElement>
